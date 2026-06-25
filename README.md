@@ -54,6 +54,9 @@ Pour le syllogisme bArbArA et les termes suivants :
 # La sortie sera la suivante :
 Tout Chat est félin, or tout Siamois est Chat, donc tout Siamois est félin.
 
+![Syllogisme Barbara](images/Resultats.png)
+![Syllogisme Barbara](images/Res_terminal.png)
+
 ---
 \\wsl.localhost\Ubuntu\home\npham03\Projet_OD06OS_Komlan_Loic_Tien
 
